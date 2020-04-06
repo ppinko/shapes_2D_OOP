@@ -5,11 +5,11 @@
 	"ClosedShape.h"
 	<iostream>
 
-1586185496 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_ShapeArea.h
+1586191006 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_ShapeArea.h
 
-1586187138 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_Perimeter.h
+1586190998 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_Perimeter.h
 
-1586187138 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/ClosedShape.h
+1586190984 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/ClosedShape.h
 	"I_ShapeArea.h"
 	"I_Perimeter.h"
 
@@ -17,6 +17,13 @@
 	"Square.h"
 	"ClosedShape.h"
 
-1586187175 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.h
+1586191064 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.h
 	"ClosedShape.h"
+
+1586190851 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Rectangle.cpp
+	"Rectangle.h"
+
+1586190739 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Rectangle.h
+	"ClosedShape.h"
+	<iostream>
 

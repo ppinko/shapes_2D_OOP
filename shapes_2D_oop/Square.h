@@ -6,7 +6,7 @@
 class Square : public ClosedShape
 {
     public:
-        Square(){};
+        Square();
         virtual ~Square(){};
 
         virtual void get_area() const override;
