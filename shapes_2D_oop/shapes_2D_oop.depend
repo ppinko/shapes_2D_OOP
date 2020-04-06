@@ -1,32 +1,42 @@
 # depslib dependency file v1.0
-1586191480 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/main.cpp
+1586195678 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/main.cpp
 	"I_ShapeArea.h"
 	"I_Perimeter.h"
 	"ClosedShape.h"
 	"Rectangle.h"
+	"Square.h"
+	"Parallelogram.h"
 	<iostream>
 	<vector>
 	<iomanip>
 
-1586191006 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_ShapeArea.h
+1586194611 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_ShapeArea.h
 
-1586190998 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_Perimeter.h
+1586194611 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_Perimeter.h
 
-1586190984 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/ClosedShape.h
+1586194611 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/ClosedShape.h
 	"I_ShapeArea.h"
 	"I_Perimeter.h"
 
-1586191957 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.cpp
+1586194611 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.cpp
 	"Square.h"
 
 1586192614 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.h
 	"ClosedShape.h"
 	<iostream>
 
-1586190851 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Rectangle.cpp
+1586194611 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Rectangle.cpp
 	"Rectangle.h"
 
 1586190739 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Rectangle.h
 	"ClosedShape.h"
 	<iostream>
+
+1586195500 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Parallelogram.cpp
+	"Parallelogram.h"
+
+1586195134 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Parallelogram.h
+	"ClosedShape.h"
+	<iostream>
+	<cmath>
 
