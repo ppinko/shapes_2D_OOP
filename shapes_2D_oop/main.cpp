@@ -4,6 +4,7 @@
 #include "Rectangle.h"
 #include "Square.h"
 #include "Parallelogram.h"
+#include "Triangle.h"
 
 #include <iostream>
 #include <vector>
@@ -14,8 +15,9 @@ int main()
     ClosedShape *ptr_1 = new Rectangle(5, 10);
     ClosedShape *ptr_2 = new Square(8);
     ClosedShape *ptr_3 = new Parallelogram(5, 10, 30);
+    ClosedShape *ptr_4 = new Triangle(3, 4, 90);
 
-    std::vector<ClosedShape *> shapes {ptr_1, ptr_2, ptr_3};
+    std::vector<ClosedShape *> shapes {ptr_1, ptr_2, ptr_3, ptr_4};
     for (const auto shape : shapes){
         shape->get_area();
         shape->get_perimeter();

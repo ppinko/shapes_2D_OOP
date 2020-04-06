@@ -1,11 +1,12 @@
 # depslib dependency file v1.0
-1586195678 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/main.cpp
+1586198624 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/main.cpp
 	"I_ShapeArea.h"
 	"I_Perimeter.h"
 	"ClosedShape.h"
 	"Rectangle.h"
 	"Square.h"
 	"Parallelogram.h"
+	"Triangle.h"
 	<iostream>
 	<vector>
 	<iomanip>
@@ -18,7 +19,7 @@
 	"I_ShapeArea.h"
 	"I_Perimeter.h"
 
-1586194611 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.cpp
+1586195726 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.cpp
 	"Square.h"
 
 1586192614 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.h
@@ -36,6 +37,14 @@
 	"Parallelogram.h"
 
 1586195134 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Parallelogram.h
+	"ClosedShape.h"
+	<iostream>
+	<cmath>
+
+1586198197 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Triangle.cpp
+	"Triangle.h"
+
+1586196324 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Triangle.h
 	"ClosedShape.h"
 	<iostream>
 	<cmath>
