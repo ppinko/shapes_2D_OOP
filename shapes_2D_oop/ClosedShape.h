@@ -8,6 +8,7 @@ class ClosedShape :
     public I_ShapeArea, public I_Perimeter
 {
     public:
+        virtual void get_representation() const = 0;
         virtual ~ClosedShape(){};
 };
 

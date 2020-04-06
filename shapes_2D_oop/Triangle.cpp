@@ -22,3 +22,8 @@ void Triangle::get_perimeter() const {
     double perimeter = base + side + missing_side;
     std::cout << "The perimeter of the given triangle equals: " << perimeter << std::endl;
 }
+
+void Triangle::get_representation() const {
+    std::cout << "Parallelogram dimensions (base x side x angle) = " << base << " x "
+        << side << " x " << angle << "deg" << std::endl;
+}

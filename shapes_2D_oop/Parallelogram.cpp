@@ -19,3 +19,9 @@ void Parallelogram::get_perimeter() const {
     double perimeter = 2 * base + 2 * side;
     std::cout << "The perimeter of the given parallelogram equals: " << perimeter << std::endl;
 }
+
+void Parallelogram::get_representation() const {
+    std::cout << "Parallelogram dimensions (base x side x angle) = " << base << " x "
+        << side << " x " << angle << "deg" << std::endl;
+}
+

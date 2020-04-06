@@ -36,6 +36,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Circle.cpp" />
+		<Unit filename="Circle.h" />
 		<Unit filename="ClosedShape.h" />
 		<Unit filename="I_Perimeter.h" />
 		<Unit filename="I_ShapeArea.h" />

@@ -15,6 +15,7 @@ class Triangle : public ClosedShape
 
         virtual void get_area() const override;
         virtual void get_perimeter() const override;
+        virtual void get_representation() const override;
     private:
         double base;
         double side;

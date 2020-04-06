@@ -21,6 +21,7 @@ int main()
 
     std::vector<ClosedShape *> shapes {ptr_1, ptr_2, ptr_3, ptr_4, ptr_5};
     for (const auto shape : shapes){
+        shape->get_representation();
         shape->get_area();
         shape->get_perimeter();
         std::cout << "---------------\n";
@@ -28,6 +29,9 @@ int main()
 
     delete ptr_1;
     delete ptr_2;
+    delete ptr_3;
+    delete ptr_4;
+    delete ptr_5;
 
     return 0;
 }

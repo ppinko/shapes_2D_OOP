@@ -9,13 +9,14 @@ class Square : public ClosedShape
 {
     public:
         Square();
-        Square(double s);
+        Square(double b);
         virtual ~Square();
 
         virtual void get_area() const override;
         virtual void get_perimeter() const override;
+        virtual void get_representation() const override;
     private:
-        double side;
+        double base;
 };
 
 #endif // SQUARE_H

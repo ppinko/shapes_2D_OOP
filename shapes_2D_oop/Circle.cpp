@@ -19,3 +19,7 @@ void Circle::get_perimeter() const {
     double perimeter = 2 * PI * radius;
     std::cout << "The perimeter of the given circle equals: " << perimeter << std::endl;
 }
+
+void Circle::get_representation() const {
+    std::cout << "Circle dimension radius = " << radius << std::endl;
+}
