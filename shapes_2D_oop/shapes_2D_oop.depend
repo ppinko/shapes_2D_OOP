@@ -41,10 +41,18 @@
 	<iostream>
 	<cmath>
 
-1586198197 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Triangle.cpp
+1586198667 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Triangle.cpp
 	"Triangle.h"
 
 1586196324 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Triangle.h
+	"ClosedShape.h"
+	<iostream>
+	<cmath>
+
+1586201133 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Circle.cpp
+	"Circle.h"
+
+1586200940 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Circle.h
 	"ClosedShape.h"
 	<iostream>
 	<cmath>

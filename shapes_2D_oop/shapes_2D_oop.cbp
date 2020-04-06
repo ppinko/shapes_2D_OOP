@@ -39,10 +39,14 @@
 		<Unit filename="ClosedShape.h" />
 		<Unit filename="I_Perimeter.h" />
 		<Unit filename="I_ShapeArea.h" />
+		<Unit filename="Parallelogram.cpp" />
+		<Unit filename="Parallelogram.h" />
 		<Unit filename="Rectangle.cpp" />
 		<Unit filename="Rectangle.h" />
 		<Unit filename="Square.cpp" />
 		<Unit filename="Square.h" />
+		<Unit filename="Triangle.cpp" />
+		<Unit filename="Triangle.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
