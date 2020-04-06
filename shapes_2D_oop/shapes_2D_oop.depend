@@ -1,9 +1,12 @@
 # depslib dependency file v1.0
-1586186201 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/main.cpp
+1586191480 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/main.cpp
 	"I_ShapeArea.h"
 	"I_Perimeter.h"
 	"ClosedShape.h"
+	"Rectangle.h"
 	<iostream>
+	<vector>
+	<iomanip>
 
 1586191006 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/I_ShapeArea.h
 
@@ -13,12 +16,12 @@
 	"I_ShapeArea.h"
 	"I_Perimeter.h"
 
-1586187164 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.cpp
+1586191957 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.cpp
 	"Square.h"
-	"ClosedShape.h"
 
-1586191064 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.h
+1586192614 /home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Square.h
 	"ClosedShape.h"
+	<iostream>
 
 1586190851 source:/home/devlx/all/c++/projects/shapes_2D_oop/shapes_2D_oop/Rectangle.cpp
 	"Rectangle.h"
