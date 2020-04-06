@@ -8,7 +8,7 @@ class ClosedShape :
     public I_ShapeArea, public I_Perimeter
 {
     public:
-        virtual ~ClosedShape();
+        virtual ~ClosedShape(){};
 };
 
 #endif // CLOSEDSHAPE_H

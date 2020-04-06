@@ -6,7 +6,7 @@ class I_Perimeter
 {
     public:
         virtual void get_perimeter() const = 0;
-        virtual ~I_Perimeter();
+        virtual ~I_Perimeter(){};
 
 };
 
